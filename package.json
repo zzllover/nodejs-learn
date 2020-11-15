@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-learn",
+  "version": "1.0.0",
+  "description": "在其他分支进行笔记学习，在主分支开源完整的项目demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzllover/nodejs-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzllover/nodejs-learn/issues"
+  },
+  "homepage": "https://github.com/zzllover/nodejs-learn#readme"
+}
