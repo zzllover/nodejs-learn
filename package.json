@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/zzllover/nodejs-learn/issues"
   },
-  "homepage": "https://github.com/zzllover/nodejs-learn#readme"
+  "homepage": "https://github.com/zzllover/nodejs-learn#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "koa": "^2.13.0",
+    "koa-mount": "^4.0.0"
+  }
 }

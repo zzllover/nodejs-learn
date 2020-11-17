@@ -1,7 +1,7 @@
 const http = require("http");
 const url = require("url");
 const fs = require("fs");
-const game = require("./game");
+const game = require("./common/game");
 
 let playerWon = 0;
 let playerLastAction;
@@ -56,7 +56,7 @@ http
 
     if (parseUrl.pathname === "/") {
       // 流
-      fs.createReadStream(__dirname + "/index.html").pipe(response);
+      fs.createReadStream(__dirname + "/common/index.html").pipe(response);
     }
   })
   .listen(3000);

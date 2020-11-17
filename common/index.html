@@ -32,16 +32,17 @@
 
     const $output = document.getElementById("output");
 
-    Object.keys($button).forEach((key) => {
-      $button[key].addEventListener("click", function () {
+    Object.keys($button).forEach(key => {
+      $button[key].addEventListener('click', function () {
         fetch(`http://${location.host}/game?action=${key}`)
           .then((res) => {
-            return res.text();
+            window.history.replaceState(null, null, `http://${location.host}/game?action=${key}`);
+            return res.text()
           })
           .then((text) => {
-            $output.innerHTML += text + "<br/>";
-          });
-      });
-    });
+            $output.innerHTML += text + '<br/>';
+          })
+      })
+    })
   </script>
 </html>
