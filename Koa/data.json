@@ -1,0 +1,178 @@
+{
+  "colock": [
+    {
+      "id": "",
+      "unified": "1F550"
+    },
+    {
+      "id": "",
+      "unified": "1F551"
+    },
+    {
+      "id": "",
+      "unified": "1F552"
+    },
+    {
+      "id": "",
+      "unified": "1F553"
+    },
+    {
+      "id": "",
+      "unified": "1F554"
+    },
+    {
+      "id": "",
+      "unified": "1F555"
+    },
+    {
+      "id": "",
+      "unified": "1F556"
+    },
+    {
+      "id": "",
+      "unified": "1F557"
+    },
+    {
+      "id": "",
+      "unified": "1F558"
+    },
+    {
+      "id": "",
+      "unified": "1F559"
+    },
+    {
+      "id": "",
+      "unified": "1F55A"
+    },
+    {
+      "id": "",
+      "unified": "1F55B"
+    },
+    {
+      "id": "",
+      "unified": "231B"
+    },
+    {
+      "id": "",
+      "unified": "23F0"
+    }
+  ],
+  "cloud": [
+    {
+      "id": "black sun with rays",
+      "unified": "2600"
+    },
+    {
+      "id": "cloud",
+      "unified": "2601"
+    },
+    {
+      "id": "umbrella with rain drops",
+      "unified": "2614"
+    },
+    {
+      "id": "snowman without snow",
+      "unified": "26C4"
+    },
+    {
+      "id": "high voltage sign",
+      "unified": "26A1"
+    },
+    {
+      "id": "cyclone",
+      "unified": "1F300"
+    },
+    {
+      "id": "foggy",
+      "unified": "1F301"
+    },
+    {
+      "id": "closed umbrella",
+      "unified": "1F302"
+    },
+    {
+      "id": "night with stars",
+      "unified": "1F303"
+    },
+    {
+      "id": "sunrise over mountains",
+      "unified": "1F304"
+    },
+    {
+      "id": "sunrise",
+      "unified": "1F305"
+    },
+    {
+      "id": "cityscape at dusk",
+      "unified": "1F306"
+    },
+    {
+      "id": "sunset over buildings",
+      "unified": "1F307"
+    },
+    {
+      "id": "rainbow",
+      "unified": "1F308"
+    },
+    {
+      "id": "snowflake",
+      "unified": "2744"
+    },
+    {
+      "id": "sun behind cloud",
+      "unified": "26C5"
+    },
+    {
+      "id": "bridge at night",
+      "unified": "1F309"
+    },
+    {
+      "id": "water wave",
+      "unified": "1F30A"
+    },
+    {
+      "id": "volcano",
+      "unified": "1F30B"
+    },
+    {
+      "id": "milky way",
+      "unified": "1F30C"
+    },
+    {
+      "id": "earth globe asia-australia",
+      "unified": "1F30F"
+    },
+    {
+      "id": "new moon symbol",
+      "unified": "1F311"
+    },
+    {
+      "id": "waxing gibbous moon symbol",
+      "unified": "1F314"
+    },
+    {
+      "id": "first quarter moon symbol",
+      "unified": "1F313"
+    },
+    {
+      "id": "crescent moon",
+      "unified": "1F319"
+    },
+    {
+      "id": "full moon symbol",
+      "unified": "1F315"
+    },
+    {
+      "id": "first quarter moon with face",
+      "unified": "1F31B"
+    },
+    {
+      "id": "glowing star",
+      "unified": "1F31F"
+    },
+    {
+      "id": "shooting star",
+      "unified": "1F320"
+    }
+  ]
+}
